@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="104" name="Flex 3 Hit D"/>
+	<Music.PitchName pitch="103" name="Flex 3 Hit C"/>
+	<Music.PitchName pitch="102" name="Flex 3 Hit B"/>
+	<Music.PitchName pitch="101" name="Flex 3 Hit A"/>
+	<Music.PitchName pitch="100" name=""/>
+	<Music.PitchName pitch="99" name="Flex 2 Hit D"/>
+	<Music.PitchName pitch="98" name="Flex 2 Hit C"/>
+	<Music.PitchName pitch="97" name="Flex 2 Hit B"/>
+	<Music.PitchName pitch="96" name="Flex 2 Hit A"/>
+	<Music.PitchName pitch="95" name=""/>
+	<Music.PitchName pitch="94" name="Cymbal 6 Choke"/>
+	<Music.PitchName pitch="93" name="Cymbal 6"/>
+	<Music.PitchName pitch="92" name="Cymbal 5 Choke"/>
+	<Music.PitchName pitch="91" name="Cymbal 5"/>
+	<Music.PitchName pitch="90" name="Cymbal 4 Choke"/>
+	<Music.PitchName pitch="89" name="Cymbal 4"/>
+	<Music.PitchName pitch="88" name=""/>
+	<Music.PitchName pitch="87" name="Ride 2 Choke"/>
+	<Music.PitchName pitch="86" name="Ride 2 Shaft"/>
+	<Music.PitchName pitch="85" name="Ride 2 Bell"/>
+	<Music.PitchName pitch="84" name="Ride 2 Tip"/>
+	<Music.PitchName pitch="83" name=""/>
+	<Music.PitchName pitch="82" name="Cymbal 3 Choke"/>
+	<Music.PitchName pitch="81" name="Cymbal 3"/>
+	<Music.PitchName pitch="80" name="Cymbal 2 Choke"/>
+	<Music.PitchName pitch="79" name="Cymbal 2"/>
+	<Music.PitchName pitch="78" name="Cymbal 1 Choke"/>
+	<Music.PitchName pitch="77" name="Cymbal 1"/>
+	<Music.PitchName pitch="76" name="Flex 1 Hit D"/>
+	<Music.PitchName pitch="75" name="Sticks"/>
+	<Music.PitchName pitch="74" name="Flex 1 Hit C"/>
+	<Music.PitchName pitch="73" name="Flex 1 Hit B"/>
+	<Music.PitchName pitch="72" name="Tom 1 Rimshot"/>
+	<Music.PitchName pitch="71" name="Tom 1 Open Hit"/>
+	<Music.PitchName pitch="70" name="Tom 2 Rimshot"/>
+	<Music.PitchName pitch="69" name="Tom 2 Open Hit"/>
+	<Music.PitchName pitch="68" name="Tom 3 Rimshot"/>
+	<Music.PitchName pitch="67" name="Tom 3 Open Hit"/>
+	<Music.PitchName pitch="66" name="Tom 4 Rimshot"/>
+	<Music.PitchName pitch="65" name="Tom 4 Open Hit"/>
+	<Music.PitchName pitch="64" name=""/>
+	<Music.PitchName pitch="63" name="Ride 1 Choke"/>
+	<Music.PitchName pitch="62" name="Ride 1 Shaft"/>
+	<Music.PitchName pitch="61" name="Ride 1 Bell"/>
+	<Music.PitchName pitch="60" name="Ride 1 Tip"/>
+	<Music.PitchName pitch="59" name="HH Foot Splash"/>
+	<Music.PitchName pitch="58" name="HH Open Bell"/>
+	<Music.PitchName pitch="57" name="HH Open D"/>
+	<Music.PitchName pitch="56" name="HH Open C"/>
+	<Music.PitchName pitch="55" name="HH Open B"/>
+	<Music.PitchName pitch="54" name="HH Open A"/>
+	<Music.PitchName pitch="53" name="HH Closed Bell"/>
+	<Music.PitchName pitch="52" name="HH Closed2 Shaft"/>
+	<Music.PitchName pitch="51" name="HH Closed2 Tip"/>
+	<Music.PitchName pitch="50" name="HH Closed1 Shaft"/>
+	<Music.PitchName pitch="49" name="HH Closed1 Tip"/>
+	<Music.PitchName pitch="48" name="HH Foot Close"/>
+	<Music.PitchName pitch="47" name="Flex 1 Hit A"/>
+	<Music.PitchName pitch="46" name="Cymbal 1"/>
+	<Music.PitchName pitch="45" name="Ride 1 Tip"/>
+	<Music.PitchName pitch="44" name="Snare RimClick"/>
+	<Music.PitchName pitch="43" name="Snare Shallow Hit"/>
+	<Music.PitchName pitch="42" name="Snare SideStick"/>
+	<Music.PitchName pitch="41" name="Snare Shallow RimShot"/>
+	<Music.PitchName pitch="40" name="Snare Open Hit [dbl]"/>
+	<Music.PitchName pitch="39" name="Snare RimShot [dbl]"/>
+	<Music.PitchName pitch="38" name="Snare Open Hit"/>
+	<Music.PitchName pitch="37" name="Snare RimShot"/>
+	<Music.PitchName pitch="36" name="Kick"/>
+	<Music.PitchName pitch="35" name="Closed Soft Tap [brush]"/>
+	<Music.PitchName pitch="34" name="Sweep: Mute [brush]"/>
+	<Music.PitchName pitch="33" name="Sweep: Slow Dark Acc [brush]"/>
+	<Music.PitchName pitch="32" name="Sweep: Fast Dark Acc [brush]"/>
+	<Music.PitchName pitch="31" name="Sweep: Slow Bright Acc [brush]"/>
+	<Music.PitchName pitch="30" name="Sweep: Fast Bright Acc [brush]"/>
+	<Music.PitchName pitch="29" name="Sweep: No Accent [brush]"/>
+	<Music.PitchName pitch="28" name="Sweep: Short 2 [brush]"/>
+	<Music.PitchName pitch="27" name=""/>
+	<Music.PitchName pitch="26" name="Sweep: Short 1 [brush]"/>
+	<Music.PitchName pitch="25" name=""/>
+	<Music.PitchName pitch="24" name=""/>
+	<Music.PitchName pitch="23" name=""/>
+	<Music.PitchName pitch="22" name=""/>
+	<Music.PitchName pitch="21" name=""/>
+	<Music.PitchName pitch="20" name=""/>
+	<Music.PitchName pitch="19" name=""/>
+	<Music.PitchName pitch="18" name=""/>
+	<Music.PitchName pitch="17" name=""/>
+	<Music.PitchName pitch="16" name=""/>
+	<Music.PitchName pitch="15" name=""/>
+	<Music.PitchName pitch="14" name=""/>
+	<Music.PitchName pitch="13" name=""/>
+	<Music.PitchName pitch="12" name=""/>
+	<Music.PitchName pitch="11" name=""/>
+	<Music.PitchName pitch="10" name=""/>
+	<Music.PitchName pitch="9" name="HiHat CC Bell"/>
+	<Music.PitchName pitch="8" name="HiHat CC Tip"/>
+	<Music.PitchName pitch="7" name="HiHat CC Shaft"/>
+	<Music.PitchName pitch="6" name="Snare CCPos Open&lt;-&gt;Shallow"/>
+	<Music.PitchName pitch="5" name="Snare CCPos Closed&lt;-&gt;Shallow [brush]"/>
+	<Music.PitchName pitch="4" name="Ride 1 CCPos Tip&lt;-&gt;Bell"/>
+	<Music.PitchName pitch="3" name="Ride 2 CCPos Tip&lt;-&gt;Bell"/>
+</Music.PitchNameList>
