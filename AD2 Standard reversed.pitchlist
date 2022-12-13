@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Music.PitchNameList>
+	<Music.PitchName pitch="127" name=""/>
+	<Music.PitchName pitch="126" name=""/>
+	<Music.PitchName pitch="125" name=""/>
+	<Music.PitchName pitch="124" name=""/>
+	<Music.PitchName pitch="123" name=""/>
+	<Music.PitchName pitch="122" name=""/>
+	<Music.PitchName pitch="121" name=""/>
+	<Music.PitchName pitch="120" name=""/>
+	<Music.PitchName pitch="119" name=""/>
+	<Music.PitchName pitch="118" name=""/>
+	<Music.PitchName pitch="117" name=""/>
+	<Music.PitchName pitch="116" name=""/>
+	<Music.PitchName pitch="115" name=""/>
+	<Music.PitchName pitch="114" name=""/>
+	<Music.PitchName pitch="113" name=""/>
+	<Music.PitchName pitch="112" name=""/>
+	<Music.PitchName pitch="111" name=""/>
+	<Music.PitchName pitch="110" name=""/>
+	<Music.PitchName pitch="109" name=""/>
+	<Music.PitchName pitch="108" name=""/>
+	<Music.PitchName pitch="107" name=""/>
+	<Music.PitchName pitch="106" name=""/>
+	<Music.PitchName pitch="105" name=""/>
 	<Music.PitchName pitch="104" name="Flex 3 Hit D"/>
 	<Music.PitchName pitch="103" name="Flex 3 Hit C"/>
 	<Music.PitchName pitch="102" name="Flex 3 Hit B"/>
@@ -102,4 +125,7 @@
 	<Music.PitchName pitch="5" name="Snare CCPos Closed&lt;-&gt;Shallow [brush]"/>
 	<Music.PitchName pitch="4" name="Ride 1 CCPos Tip&lt;-&gt;Bell"/>
 	<Music.PitchName pitch="3" name="Ride 2 CCPos Tip&lt;-&gt;Bell"/>
+	<Music.PitchName pitch="2" name=""/>
+	<Music.PitchName pitch="1" name=""/>
+	<Music.PitchName pitch="0" name=""/>
 </Music.PitchNameList>
